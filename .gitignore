@@ -139,7 +139,7 @@ best.pt
 last.pt
 
 # Training results and runs
-runs/
+# runs/  # Commented out to allow adding trained models
 results/
 wandb/
 *.png
